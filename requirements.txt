@@ -1,3 +1,0 @@
-Flask
-argon2-cffi
-pyotp
